@@ -1,0 +1,8 @@
+GUI R
+STRING powershell
+ENTER
+DELAY 300
+ENTER
+DELAY 100
+STRING Start-Process "https://youtu.be/dQw4w9WgXcQ"; Exit
+ENTER
