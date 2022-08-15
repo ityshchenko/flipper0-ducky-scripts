@@ -2,10 +2,6 @@ ID 1234:5678 Apple:Keyboard
 DELAY 1000
 GUI SPACE
 DELAY 100
-STRING terminal
-DELAY 250
-ENTER
-DELAY 750
-STRING python3 -m webbrowser "https://youtu.be/dQw4w9WgXcQ" && osascript -e 'tell application "Terminal" to quit' 
+STRING https://youtu.be/dQw4w9WgXcQ 
 GUI TAB
 ENTER 
