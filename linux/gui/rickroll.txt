@@ -1,0 +1,4 @@
+ALT F2
+DELAY 100
+STRING xdg-open https://youtu.be/dQw4w9WgXcQ
+ENTER
